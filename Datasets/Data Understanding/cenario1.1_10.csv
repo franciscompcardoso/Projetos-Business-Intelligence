@@ -1,0 +1,11 @@
+brand,model,model_year,milage,fuel_type,engine,transmission,ext_col,int_col,accident,clean_title,price
+Jeep,Wrangler Sport,2014,71000,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,Gray,Black,None reported,Yes,22000
+Toyota,Highlander XLE,2015,68575,Gasoline,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Silver,Gray,At least 1 accident or damage reported,Yes,26000
+Toyota,Camry Hybrid XLE,2018,69641,Hybrid,208.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,White,Black,At least 1 accident or damage reported,Yes,23995
+Subaru,Outback Touring XT,2021,33500,Gasoline,260.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,Blue,Brown,None reported,Yes,34000
+Lexus,GX 460 Base,2018,75000,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,White,Beige,At least 1 accident or damage reported,Yes,38095
+Ford,Escape XLT,2007,133300,Gasoline,153.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,Silver,Silver,None reported,Yes,3000
+Nissan,Murano SL,2007,120000,Gasoline,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Silver,Black,None reported,Yes,6750
+Lexus,LC 500 Base,2022,2071,Gasoline,5.0L V8 32V PDI DOHC,Automatic,Nightfall Mica,Caramel,None reported,,99950
+MINI,Cooper Base,2003,103726,Gasoline,115.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,Red,Gray,At least 1 accident or damage reported,Yes,5995
+Ford,E350 Super Duty Base,2006,158000,Gasoline,305.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,White,Gray,At least 1 accident or damage reported,Yes,8500

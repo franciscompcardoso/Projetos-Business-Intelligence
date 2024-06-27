@@ -1,0 +1,19 @@
+- Arvore de Decisão:
+	Valores estão aceitáveis?
+- Random Forest ???
+
+- Redes Neuronais Artificias
+	Demora muito tempo a realizar o processo
+	Nominal to numeric - tenho que utilizar já um csv todo em numerico?
+
+- Deep Learning
+
+
+- Máquinas de Vetor de Suporte
+	O testing não coincide com os valores do trainning - numerical to nominal ou csv numerico?
+
+- Naive Bayes
+
+
+Ir aos carros mais antigos e perceber se os valores são mais acertivos para tentar promover a venda dos mesmos
+

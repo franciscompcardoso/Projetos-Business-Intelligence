@@ -1,0 +1,101 @@
+brand,model,model_year,milage,fuel_type,ext_col,int_col,price
+Jeep,Wrangler Sport,2014,71000,Gasoline,Gray,Black,22000
+Toyota,Highlander XLE,2015,68575,Gasoline,Silver,Gray,26000
+Toyota,Camry Hybrid XLE,2018,69641,Hybrid,White,Black,23995
+Subaru,Outback Touring XT,2021,33500,Gasoline,Blue,Brown,34000
+Lexus,GX 460 Base,2018,75000,Gasoline,White,Beige,38095
+Ford,Escape XLT,2007,133300,Gasoline,Silver,Silver,3000
+Nissan,Murano SL,2007,120000,Gasoline,Silver,Black,6750
+Lexus,LC 500 Base,2022,2071,Gasoline,Nightfall Mica,Caramel,99950
+MINI,Cooper Base,2003,103726,Gasoline,Red,Gray,5995
+Ford,E350 Super Duty Base,2006,158000,Gasoline,White,Gray,8500
+Mazda,Mazda6 i Touring,2016,119500,Gasoline,Silver,Black,15000
+Mercedes-Benz,E-Class AMG E 53,2020,23044,Hybrid,Emerald Green Metallic,Black/Saddle Brown,72598
+Toyota,Camry Hybrid Base,2007,53249,Hybrid,Silver,Gray,9250
+Mercedes-Benz,C-Class C 300 4MATIC Sport,2016,67289,Gasoline,White,Gray,20490
+Dodge,Charger SE,2017,63250,Gasoline,Red,Black,18650
+Tesla,Model S 75D,2016,102260,,White,Black,31300
+Lexus,GX 460 Premium,2023,2533,Gasoline,Black,Black,64900
+Audi,RS 7 4.0T quattro,2023,3158,Gasoline,Daytona Gray Pearl Effect,Black / Express Red,128900
+Ford,Mustang Shelby GT500,2007,7346,Gasoline,Red,Black,40999
+Acura,MDX Technology,2022,15895,Gasoline,Majestic Black Pearl,Parchment,47950
+Lincoln,MKT Base,2016,140200,Gasoline,Black,Black,10500
+Volkswagen,Passat 2.0T SE,2020,49400,Gasoline,Black,Brown,20900
+INFINITI,QX60 Base,2014,154247,Gasoline,Black,Black,12500
+RAM,1500 Big Horn,2021,41800,Diesel,White,Black,44900
+Hyundai,Santa Fe SE,2007,145000,Gasoline,Blue,Gray,4200
+Acura,ILX Technology Plus Package,2016,61000,Gasoline,Black,Black,21000
+Rolls-Royce,Phantom,2018,7585,Gasoline,–,–,599000
+Mercedes-Benz,E-Class E 350,2014,35000,Gasoline,Red,Beige,29998
+RAM,1500 Limited,2021,22000,Gasoline,Black,Black,54800
+Jaguar,F-TYPE S British Design Edition,2017,34150,Gasoline,Black,Black,45999
+Toyota,Highlander XLE,2018,74000,Gasoline,White,Black,27950
+Porsche,911 Turbo Cabriolet,2008,51000,Gasoline,Silver,Black,69500
+Aston,Martin DBS Superleggera,2019,22770,Gasoline,Silver,Black,184606
+Ford,Transit Connect XLT,2016,111700,E85 Flex Fuel,White,Beige,15500
+Maserati,Quattroporte S,2019,23230,Gasoline,Black,Black,44999
+Land,Rover Defender S,2023,15200,Gasoline,White,Black,62999
+Toyota,Tundra SR5,2020,26300,Gasoline,Gray,Gray,46199
+Mazda,Mazda6 Touring,2021,52253,Gasoline,Snowflake White Pearl,Black,25215
+BMW,i3 Base,2015,26000,,White,Beige,14999
+Jeep,Grand Cherokee Limited,2020,47500,Gasoline,Purple,Black,31000
+BMW,640 Gran Coupe i xDrive,2015,98000,Gasoline,Black,Beige,22500
+Honda,Accord EX-L 2.0T,2019,40069,Gasoline,White,Black,27500
+Kia,Rio S,2021,67686,Gasoline,Silver,Black,15700
+Ford,F-250 King Ranch,2015,97700,Diesel,Black,–,39950
+Porsche,911 Turbo S,2019,22000,Gasoline,White,Beige,174900
+BMW,M2 Competition,2020,25013,Gasoline,Black,Black,55000
+BMW,328 i xDrive,2016,65000,Gasoline,Silver,Black,19500
+Ford,Expedition Limited,2018,98995,Gasoline,Ingot Silver Metallic,Ebony,34998
+Mercedes-Benz,C-Class C 300 4MATIC Sport,2013,98000,Gasoline,White,Beige,15500
+GMC,Yukon SLT,2018,85500,Gasoline,Black,Black,35899
+BMW,330e iPerformance,2018,45253,Plug-In Hybrid,Black,Black,24995
+Ford,Explorer Limited,2022,17500,Hybrid,White,Black,46000
+Chrysler,Pacifica Launch Edition,2020,22200,Gasoline,Black,Black,36800
+Tesla,Model 3 Long Range,2019,27123,,Red,Black,38200
+Buick,Enclave Leather,2015,68653,Gasoline,Blue,Black,18950
+Jeep,Wrangler Sport,2012,57237,Gasoline,Black,Black,22500
+Audi,A4 2.0T Premium Plus,2015,73000,E85 Flex Fuel,Black,Black,17200
+Kia,Optima EX,2019,68166,Gasoline,Ebony Black,Black,20818
+Subaru,Impreza WRX Base,2013,113000,Gasoline,Blue,Black,16000
+Volkswagen,Touareg TDI Lux,2015,15167,Diesel,Gold,Black,35000
+Cadillac,Escalade Platinum,2020,48613,Gasoline,Black,Black,61500
+Land,Rover Range Rover Sport HSE,2007,220000,Gasoline,White,Beige,5750
+INFINITI,QX80 SENSORY,2022,26520,Gasoline,Blue,Brown,64000
+BMW,Z4 3.0si,2008,59257,Gasoline,Gray,Black,18200
+Ford,F-250 XLT Super Duty,2001,64309,Gasoline,White,Gray,7500
+BMW,X5 xDrive35i,2017,105100,Gasoline,Gray,Black,23300
+Nissan,Xterra S,2012,80000,Gasoline,Black,Gray,14800
+Chevrolet,Silverado 2500 LT,2016,84421,E85 Flex Fuel,White,Black,36800
+Mercedes-Benz,GL-Class GL 450,2011,93000,Gasoline,Gray,Beige,11900
+Chevrolet,Trailblazer LT,2021,50648,Gasoline,Pacific Blue Metallic,Jet Black,23995
+Mercedes-Benz,AMG GLS 63 4MATIC,2023,2000,Hybrid,Gray,Beige,175000
+MINI,Convertible John Cooper Works,2017,24280,Gasoline,Black,Black,29000
+Jeep,Compass Sport,2010,179700,Gasoline,Black,Gray,4500
+Toyota,86 860 Special Edition,2017,87500,Gasoline,Silver,Black,20000
+Dodge,Charger SRT Hellcat Widebody,2023,5000,Gasoline,Gray,Black,110000
+Volkswagen,Atlas 3.6L SEL Premium R-Line,2022,14000,Gasoline,Gray,Black,46900
+Audi,S4 3.0 Prestige,2012,38718,Gasoline,Black,Black,31000
+Jeep,Grand Cherokee Laredo,2012,166000,E85 Flex Fuel,White,Gray,13000
+Honda,Civic Sport,2020,23131,Gasoline,Crystal Black Pearl,Black,23739
+Lincoln,Aviator Reserve AWD,2022,18196,Gasoline,Black,Brown,62000
+Toyota,4Runner Sport,2004,220450,Gasoline,Gray,Gray,8550
+Rivian,R1S Launch Edition,2023,299,,Blue,Gray,92500
+Mercedes-Benz,E-Class E 350 4MATIC,2014,89563,Gasoline,Blue,Black,18995
+INFINITI,Q60 3.0T Premium,2017,107380,Gasoline,Black,Gray,17500
+Pontiac,Solstice Base,2007,62310,Gasoline,Gray,Black,12900
+Land,Rover Range Rover Sport First Edition,2023,3534,Hybrid,Red,Black,143998
+Porsche,Macan S,2022,20250,Gasoline,White,Beige,68500
+Audi,Q5 Premium,2023,2425,Hybrid,Mythos Black,–,42998
+Hyundai,Tucson Limited,2008,149000,Gasoline,Black,Gray,3850
+Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,2019,32500,Gasoline,Black,Black,43500
+GMC,Sierra 1500 Limited Elevation,2022,24900,Gasoline,Black,Black,49900
+Ford,Bronco,2021,3596,Gasoline,Blue,Black Onyx,56900
+Ford,Expedition Max Limited,2022,26500,Gasoline,White,Beige,65900
+Cadillac,CTS-V Base,2006,123000,Gasoline,Black,Black,15000
+Jeep,Liberty Limited,2010,107000,Gasoline,Gray,Gray,5900
+Mercedes-Benz,S-Class S 550,2016,78101,Gasoline,Black,Black,34500
+Dodge,Dakota Sport,2002,150000,Gasoline,Black,Gray,5500
+Cadillac,Escalade Premium Luxury,2017,55000,Gasoline,White,Beige,49900
+Audi,R8 Base,2008,49000,Gasoline,Black,Black,63000
+Hummer,H2 Base,2005,145000,Gasoline,Green,Black,22500

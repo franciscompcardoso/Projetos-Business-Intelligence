@@ -1,0 +1,13 @@
+frequencia relativa das marcas
+medias
+
+categoricos - histogram
+
+coeficiente de person - heatman
+
+criterios de sucesso data mining, modelo para estimar o valor do automóvel através das suas carateristicas
+
+MAE
+MSE
+RMSE
+REC

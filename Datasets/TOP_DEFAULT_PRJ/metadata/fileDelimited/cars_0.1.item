@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:dataquality.analysis="http://dataquality.analysis" xmlns:orgomg.cwm.objectmodel.core="http:///orgomg/cwm/objectmodel/core.ecore" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_1vBHwHM7Ee6JlbMgF9ZsEg" name="cars" supplierDependency="_P6sxgHM8Ee6JlbMgF9ZsEg" dataPackage="_1vBHwXM7Ee6JlbMgF9ZsEg" Server="Localhost 127.0.0.1" FilePath="C:/Users/Project/Desktop/Datasets/train.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_1vBHwXM7Ee6JlbMgF9ZsEg" name="default" dataManager="_1vBHwHM7Ee6JlbMgF9ZsEg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_1vBHwnM7Ee6JlbMgF9ZsEg" id="_pGzqEHM7Ee6JlbMgF9ZsEg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHw3M7Ee6JlbMgF9ZsEg" id="brand" label="brand" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxgXM8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHxHM7Ee6JlbMgF9ZsEg" id="model" label="model" length="31" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxgnM8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHxXM7Ee6JlbMgF9ZsEg" id="model_year" label="model_year" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxg3M8Ee6JlbMgF9ZsEg" tag="Content Type" value="Interval"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHxnM7Ee6JlbMgF9ZsEg" id="milage" label="milage" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxhHM8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHx3M7Ee6JlbMgF9ZsEg" id="fuel_type" label="fuel_type" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxhXM8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHyHM7Ee6JlbMgF9ZsEg" id="engine" label="engine" length="53" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxhnM8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHyXM7Ee6JlbMgF9ZsEg" id="transmission" label="transmission" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxh3M8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHynM7Ee6JlbMgF9ZsEg" id="ext_col" label="ext_col" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxiHM8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHy3M7Ee6JlbMgF9ZsEg" id="int_col" label="int_col" length="19" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxiXM8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHzHM7Ee6JlbMgF9ZsEg" id="accident" label="accident" length="38" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxinM8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHzXM7Ee6JlbMgF9ZsEg" id="clean_title" label="clean_title" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxi3M8Ee6JlbMgF9ZsEg" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1vBHznM7Ee6JlbMgF9ZsEg" id="price" label="price" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_P6sxjHM8Ee6JlbMgF9ZsEg" tag="Content Type" value="Interval"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+  <orgomg.cwm.objectmodel.core:Dependency xmi:id="_P6sxgHM8Ee6JlbMgF9ZsEg" kind="Usage" supplier="_1vBHwHM7Ee6JlbMgF9ZsEg">
+    <client xsi:type="dataquality.analysis:Analysis" href="../../TDQ_Data Profiling/Analyses/iti/cars_0.1.ana#_hDhJEHM7Ee6JlbMgF9ZsEg"/>
+  </orgomg.cwm.objectmodel.core:Dependency>
+</xmi:XMI>
